@@ -30,10 +30,6 @@
 			<string>changeTabsToSpaces:</string>
 		</dict>
 		<dict>
-			<key>command</key>
-			<string>centerSelectionInVisibleArea:</string>
-		</dict>
-		<dict>
 			<key>argument</key>
 			<dict>
 				<key>beforeRunningCommand</key>
