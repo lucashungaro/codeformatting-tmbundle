@@ -47,6 +47,8 @@
 			<string>executeCommandWithOptions:</string>
 		</dict>
 	</array>
+	<key>keyEquivalent</key>
+	<string>@s</string>
 	<key>name</key>
 	<string>Save, Strip and Convert Tabs to Spaces</string>
 	<key>uuid</key>
