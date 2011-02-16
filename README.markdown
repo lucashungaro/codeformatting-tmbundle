@@ -12,3 +12,7 @@ This is a simple [TextMate][txm] bundle that strips out trailing whitespaces and
     cd ~/Library/Application\ Support/TextMate/Bundles
     git clone git://github.com/lucashungaro/codeformatting-tmbundle.git Code\ Formatting.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
+
+## License
+
+codeformatting-tmbundle is released under the MIT license. See [MIT LICENSE](https://github.com/lucashungaro/codeformatting-tmbundle/blob/master/MIT-LICENSE).
